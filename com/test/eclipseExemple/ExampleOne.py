@@ -17,7 +17,7 @@ x = 1
 y=4
 z=x+y
 
-assert(1==2)
+#assert(1==2)
 
 i = 1
 for i in range(1, 10):
