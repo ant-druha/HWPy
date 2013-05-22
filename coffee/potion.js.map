@@ -1,0 +1,9 @@
+Syntax error on line 16, column 6: unexpected 'p' (\u0070)
+13 : 
+14 : # loop: 'quaff' print.
+15 : 
+16 : loop print 'quaff'
+^^ :~~~~~~^
+17 : 
+18 : # ('cheese', 'bread', 'mayo') at (1) print
+19 : 
